@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4227793638
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blockiconatlas
+      Dependencies: {}
+    Info_1:
+      Name: pokemondexiconatlas
+      Dependencies: {}
+    Info_2:
+      Name: pokemondata
+      Dependencies: {}
+    Info_3:
+      Name: pokemonskilliconatlas
+      Dependencies: {}
+    Info_4:
+      Name: pokemoncry
+      Dependencies: {}
+    Info_5:
+      Name: pokemon_effectsound
+      Dependencies: {}
+    Info_6:
+      Name: pokemon_skilleffectsound
+      Dependencies: {}
